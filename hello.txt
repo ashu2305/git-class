@@ -3,5 +3,3 @@ this is second
 
 
 like featore added
-
-from gui
